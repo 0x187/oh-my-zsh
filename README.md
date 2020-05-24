@@ -1,2 +1,1 @@
-# oh my bash
-my oh my bash theme
+my zsh theme base on agnoster.zsh-theme https://github.com/agnoster/agnoster-zsh-theme
