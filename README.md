@@ -1,2 +1,2 @@
 # oh_my_bash
-my terminal theme on oh my bash
+my oh my bash theme
